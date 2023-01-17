@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(magenta,rgb(239, 121, 78)) ;  
+    color: greenyellow; 
+}
+#Heading{
+    color: orangered;
+    width : 50%;
+}
+#camera{
+    border-width: 2.5px ;
+    border-style: dotted;
+    border-color: dimgray;
+    width: 351px;
+    height: 301px;
+}
+
+#Image_capture{
+    border-width: 2.5px ;
+    border-style: dotted;
+    border-color: rgb(126, 200, 220);
+    width: 351px;
+    height: 301px;
+}
